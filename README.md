@@ -30,8 +30,8 @@ import 'package:flutter_tawk/flutter_tawk.dart';
 Tawk(
     directChatLink: 'YOUR_DIRECT_CHAT_LINK',
     visitor: TawkVisitor(
-        name: 'Ayoub AMINE',
-        email: 'ayoubamine2a@gmail.com',
+        name: 'AMIA',
+        email: 'r4gamia@gmail.com',
     ),
 )
 ```
