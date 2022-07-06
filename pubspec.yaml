@@ -1,7 +1,7 @@
 name: flutter_tawk
 description: Tawk widget for Flutter.
 version: 0.1.0
-homepage: https://github.com/ayoubamine/flutter_tawk
+homepage: https://github.com/rg4amia/flutter_tawk.git
 
 environment:
   sdk: '>=2.16.1 <3.0.0'
